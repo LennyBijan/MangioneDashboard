@@ -1,4 +1,4 @@
-# EMW-Finetuning
+# Data Visualization for Uni 
 Google Collab mirror repo for setting up a visualization dashboard for an uni project
 
 To use: 
